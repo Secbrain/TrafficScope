@@ -1,0 +1,7 @@
+TRAFFIC_SCOPE = 'TrafficScope'
+TRAFFIC_SCOPE_TEMPORAL = 'TrafficScopeTemporal'
+TRAFFIC_SCOPE_CONTEXTUAL = 'TrafficScopeContextual'
+CONTEXTUAL_MIX = 'mix'
+PACKET_INJECTION = 'inject'
+PACKET_LOSS = 'loss'
+PACKET_REORDERING = 'reorder'
