@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/915590496.svg)](https://doi.org/10.5281/zenodo.14699122)
 
-# Towards Context-Aware Traffic Classification via Time-Wavelet Fusion Network
+# 🔎 Towards Context-Aware Traffic Classification via Time-Wavelet Fusion Network
 
 ![avatar](./fig/overview.png)
 
